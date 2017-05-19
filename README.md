@@ -1,7 +1,7 @@
 tdd-seed
 ========
 
-http://visionmedia.github.io/mocha/
+http://mochajs.org/
 
 http://chaijs.com/api/assert/
 
